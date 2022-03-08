@@ -1,0 +1,8 @@
+.login{
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: linear-gradient(rgba(131, 127, 127, 0.5), rgba(131, 127, 127, 0.5)), url("../../simages/pff1.jpg");
+    background-size: cover;
+}
